@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio - Demos
 
 # Spinnaker / OpenCV interface
 - An API to control FLIR cameras that are compatible with their Spinnaker SDK.  This API simplifies common routines (camera start, shutdown, OpenCV conversion, etc...) into 1 line function calls.
